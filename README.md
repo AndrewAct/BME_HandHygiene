@@ -25,3 +25,11 @@ CV2 and TensorFlow are the primary libraries of this project. Although it has no
 "Instantaneous": Add a memory chip to this device and enhance its ability to analyze real-time images. 
 
 "In real-world": Perform tasks on more real-world images. The complexity would increase and the algorithm should be enhanced.
+
+
+## More info:
+[Check out our website](https://www.bmehandhygiene.com/)
+
+[Check out the Kaggle Dataset](https://www.kaggle.com/realtimear/hand-wash-dataset)
+
+[Check our the Kaggle Notebook](https://www.kaggle.com/zhuo47ohio/handhygiene)
